@@ -1,0 +1,47 @@
+{
+  "name": "handlebars-helper-minify",
+  "description": "{{minify}} handlebars helper, for minification of HTML with html-minifier.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/handlebars-helper-minify",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonschlinkert/handlebars-helper-minify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/handlebars-helper-minify/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/handlebars-helper-minify/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "lodash": "~2.2.1",
+    "html-minifier": "~0.5.4"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.24",
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-readme": "~0.2.4",
+    "grunt-sync-pkg": "~0.1.1"
+  },
+  "keywords": [
+    "assemble",
+    "grunt",
+    "handlebars helper",
+    "helper",
+    "html minifier",
+    "minification",
+    "minifier",
+    "minify html",
+    "minify"
+  ]
+}
