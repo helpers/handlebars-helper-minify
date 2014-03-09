@@ -4,8 +4,6 @@
 
 This helper depends on and extends [js-beautify](https://github.com/einars/js-beautify). Please visit and star that project to show your support.
 
-[Also see examples →](./EXAMPLES.md)
-
 ## Quickstart
 In the root of your project, run the following in the command line:
 
