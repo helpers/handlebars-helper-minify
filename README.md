@@ -1,6 +1,6 @@
 # {{minify}} [![NPM version](https://badge.fury.io/js/handlebars-helper-minify.png)](http://badge.fury.io/js/handlebars-helper-minify) 
 
-> {{minify}} handlebars helper.
+> {{minify}} handlebars helper, for minification of HTML with html-minifier.
 
 This helper depends on and extends [js-beautify](https://github.com/einars/js-beautify). Please visit and star that project to show your support.
 
@@ -123,9 +123,9 @@ Please see the [Contributing to Assemble](http://assemble.io/contributing) guide
 + [helpers](https://github.com/helpers): some great handlebars helpers that we decided not to include in the [handlebars-helpers](https://github.com/assemble/handlebars-helpers) project, most likely because the code footprint was too big or the helper wasn't generic enough.
 
 ## License
-Copyright (c) 2013 Jon Schlinkert, contributors.
+Copyright (c) 2014 Jon Schlinkert, contributors.
 Released under the MIT license
 
 ***
 
-_This file was generated on Thu Nov 14 2013 03:45:59._
+_This file was generated on Sun Mar 09 2014 00:13:11._

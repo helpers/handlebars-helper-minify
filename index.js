@@ -1,8 +1,8 @@
 /*
- * minify
- * https://github.com/jonschlinkert/helper-minify
+ * {{minify}}
+ * https://github.com/jonschlinkert/handlebars-helper-minify
  *
- * Copyright (c) 2013 Jon Schlinkert
+ * Copyright (c) 2014 Jon Schlinkert
  * Licensed under the MIT license.
  */
 

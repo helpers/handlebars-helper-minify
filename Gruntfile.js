@@ -40,7 +40,6 @@ module.exports = function(grunt) {
       }
     },
 
-
     /**
      * Before generating any new files,
      * remove files from previous build.

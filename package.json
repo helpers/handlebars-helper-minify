@@ -1,23 +1,23 @@
 {
   "name": "handlebars-helper-minify",
   "description": "{{minify}} handlebars helper, for minification of HTML with html-minifier.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/handlebars-helper-minify",
+  "version": "0.1.1",
+  "homepage": "https://github.com/helpers/handlebars-helper-minify",
   "author": {
     "name": "Jon Schlinkert",
-    "url": "https://github.com/jonschlinkert"
+    "url": "https://github.com/helpers"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonschlinkert/handlebars-helper-minify.git"
+    "url": "https://github.com/helpers/handlebars-helper-minify.git"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/handlebars-helper-minify/issues"
+    "url": "https://github.com/helpers/handlebars-helper-minify/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jonschlinkert/handlebars-helper-minify/blob/master/LICENSE-MIT"
+      "url": "https://github.com/helpers/handlebars-helper-minify/blob/master/LICENSE-MIT"
     }
   ],
   "main": "./index.js",
