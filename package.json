@@ -22,8 +22,8 @@
   ],
   "main": "./index.js",
   "dependencies": {
-    "lodash": "~2.2.1",
-    "html-minifier": "~0.5.4"
+    "html-minifier": "~0.6.9",
+    "lodash": "~2.2.1"
   },
   "devDependencies": {
     "assemble": "~0.4.24",
